@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2023",
+    "current": true
+  },
+  {
+    "date": "2022",
+    "current": false
+  },
+  {
+    "date": "2021",
+    "current": false
+  },
+  {
+    "date": "2020",
+    "current": false
+  }
+]
